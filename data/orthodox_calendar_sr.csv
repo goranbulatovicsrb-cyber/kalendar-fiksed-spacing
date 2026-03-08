@@ -1,0 +1,299 @@
+# mesec,dan,naziv
+1,1,Sveti mucenik Bonifatije
+1,5,Krstovdan - predpraznistvo Bogojavljenja
+1,10,Sveti Grigorije Niski
+1,11,Sveta Teodosija
+1,12,Sveta Tatjana
+1,15,Sveti Serafim Sarovski
+1,16,Casne verige Svetog apostola Petra
+1,17,Sveti Antonije Veliki
+1,21,Sveti Maksim Ispovednik
+1,22,Sveti apostol Timotej
+1,24,Prepodobna Ksenija
+1,25,Sveti Grigorije Bogoslov
+1,26,Sveti Jovan Zlatousti
+1,28,Sveti Jefrem Sirin
+1,29,Prenos mostiju Svetog Ignjatija
+2,1,Sveti Trifun predpraznistvo
+2,2,Sretenjske zadusnice
+2,3,Sveti Simeon Bogoprimac
+2,4,Sveti Isidor Pelusiot
+2,5,Sveta Agatija
+2,7,Sveti Grigorije Bogoslov - drugi pomen
+2,8,Sveti Teodor Stratilat
+2,9,Sveti Nikifor
+2,10,Sveti Haralampije
+2,11,Sveti Vlasije
+2,13,Sveti Martinijan
+2,17,Sveti Teodor Tiron
+2,18,Sveta Agata
+2,19,Sveti apostoli Arhip, Filimon i Apfija
+2,20,Sveti Lav Katanski
+2,21,Sveti Timotej
+2,22,Zadusnice
+2,25,Sveti Tarasije
+2,26,Sveti Porfirije Gaski
+2,27,Sveti Prokopije Dekapolit
+2,28,Sveti Vasilije Ispovednik
+3,1,Sveti mucenici Evdokija i drugi
+3,2,Sveti Teodot Kirinejski
+3,3,Sveti Lav papa Rimski
+3,4,Sveti Gerasim Jordanski
+3,5,Sveti Konon
+3,7,Sveti mucenici u Evgeniji
+3,8,Sveti Teofilakt Ispovednik
+3,10,Sveti Kodrat Korintski
+3,11,Sveti Sofronije Jerusalimski
+3,12,Sveti Prokopije Dekapolit
+3,13,Prepodobni Vasilije Ispovednik
+3,14,Sveti prepodobnomucenik Evdokim
+3,15,Sveti Agapije i sedmorica
+3,16,Sveti Hristodul
+3,17,Sveti Aleksije covek Bozji
+3,18,Sveti Kiril Jerusalimski
+3,19,Sveti mucenici Hrisant i Darija
+3,20,Ikona Presvete Bogorodice Umiljenje
+3,21,Sveti Jakov Ispovednik
+3,23,Sveti Nikon i 199 ucenika
+3,24,Sveti Artemon
+3,26,Sabor Svetog arhangela Gavrila
+3,27,Matrona Solunska
+3,28,Sveti Ilarion Novi
+3,29,Sveti Marko Aretuski
+3,30,Sveti Jovan Lestvicnik
+3,31,Sveti Ipatije Gangrijski
+4,1,Sveta Marija Egipcanka
+4,2,Sveti Tit Cudotvorac
+4,3,Prepodobni Nikita Ispovednik
+4,4,Sveti Josif Pesmopisac
+4,5,Sveti mucenici Agatopod i Teodul
+4,6,Sveti Evtihije Carigradski
+4,8,Sabor Svetog arhangela Gavrila - drugi pomen
+4,9,Sveti mucenik Evpsihije
+4,10,Sveti Ilarion Novi
+4,11,Sveti Antipa Pergamski
+4,12,Lazarica - lokalni pomen
+4,13,Sveti Martin Ispovednik
+4,14,Sveti Jovan Climacus
+4,15,Sveti apostoli Aristarh, Pud i Trofim
+4,17,Sveti Simeon Persijski
+4,18,Sveti Jovan ucitelj pokajanja
+4,19,Prepodobni Jovan Vetropisac
+4,20,Sveti Teodor Trihina
+4,21,Sveti apostol Rodion
+4,22,Sveti Teodor Sikeot
+4,24,Sveti Sava Stratilat
+4,25,Sveti Vasilije episkop Amasejski
+4,26,Sveti mucenica Glafira
+4,27,Sveti Simeon srodnik Gospodnji
+4,28,Sveti apostoli Jason i Sosipatru
+4,29,Sveti devet mucenika Kizicki
+4,30,Sveti apostol Jakov Zavedejev
+5,1,Sveti prorok Jeremija
+5,2,Sveti Atanasije Veliki - drugi pomen
+5,3,Sveti Teodosije Kijevo-Pecerski
+5,4,Sveta Pelagija Tarsijska
+5,5,Sveti apostol i jevandjelist Marko - drugi pomen
+5,7,Sveti mucenik Savva Stratilat
+5,9,Sveti Vasilije Ostroski - predpraznistvo
+5,10,Sveti Simon Zilot
+5,11,Sveti Metodije i Kirilo - predpraznistvo
+5,13,Sveti apostol Jakov Zevedejev
+5,14,Sveti Jeremija
+5,15,Sveti Atanasije Veliki - zimski pomen
+5,16,Sveti Teodor Osveceni
+5,17,Sveti Andronik i Junija
+5,18,Sveti Teodot Ankirski
+5,19,Sveti Patrik Irski
+5,20,Sveti Talalej
+5,23,Sveti Mihailo Ispovednik
+5,25,Treci obretenje glave Svetog Jovana
+5,26,Sveti apostol Karp
+5,27,Sveti mucenik Isidor
+5,28,Sveti Pahomije Veliki
+5,29,Prepodobni Teodor Osveceni
+5,30,Sveti apostol Andronik
+5,31,Sveti Oci Prvog vaseljenskog sabora
+6,1,Sveti Justin Filozof
+6,2,Sveti Nikifor Ispovednik
+6,4,Sveti Mitrofan Carigradski
+6,5,Sveti Dorotej Tirski
+6,6,Zadusnice Duhovske
+6,7,Sveti Teodot Ankirski - drugi pomen
+6,8,Sveti mučenici Karp i Alfej
+6,9,Sveti Kiril Aleksandrijski
+6,10,Sveti Nikita Halkedonski
+6,11,Sveti apostoli Vartolomej i Varnava
+6,12,Prepodobni Onufrije Veliki
+6,13,Sveti Akvilina
+6,14,Sveti prorok Jelisej
+6,15,Sveti Amos prorok
+6,16,Sveti Tihon Amatuntski
+6,17,Sveti mucenici Manuil, Savel i Ismail
+6,18,Sveti mucenik Leontije
+6,19,Sveti apostol Juda
+6,20,Sveti Metodije Patarski
+6,21,Sveti mucenik Julijan Tarsijski
+6,22,Sveti Kirilo Aleksandrijski - drugi pomen
+6,23,Sveta Agripina
+6,24,Rodenje Svetog Jovana Krstitelja - Ivanjdan predpraznistvo
+6,25,Sveti Fevronija
+6,26,Sveti David Solunski
+6,27,Sveti Samson Stranoprimac
+6,29,Sveti Tihon Zadonski
+6,30,Sabor 12 apostola
+7,1,Sveti Kozma i Damjan Rimski
+7,2,Polozaj rize Presvete Bogorodice
+7,3,Sveti mučenik Jakint
+7,4,Sveti Andrej Kritski
+7,5,Sveti Atanasije Atonski
+7,6,Vladimirska ikona Bogorodice
+7,8,Sveti Prokopije
+7,9,Sveta velikomucenica Efimija
+7,10,Svetih 45 mucenika Nikopoljskih
+7,11,Sveta Olga
+7,13,Sabor Svetih 12 apostola - drugi dan
+7,14,Sveti besrebrenici Kozma i Damjan
+7,15,Polozaj casne rize Presvete Bogorodice
+7,16,Sveti Athenogen
+7,18,Sveti Emilijan
+7,19,Sveta prepodobna Makrina
+7,20,Sveti prorok Ilija predpraznistvo
+7,21,Sveti Prokopije veliki
+7,22,Sveta Marija Magdalena - Blaga Marija
+7,23,Sveti Antonije Pecerski
+7,25,Ikona Presvete Bogorodice Trojerucice
+7,26,Sabor Svetog arhangela Gavrila - letnji pomen
+7,27,Sveti Kliment Ohridski
+7,28,Sveti ravnoapostolni knez Vladimir
+7,29,Sveti mucenik Kalinik
+7,30,Sveta velikomucenica Marina - drugi pomen
+7,31,Predpraznistvo Svetog Ilije
+8,1,Svetih sedam Makaveja
+8,3,Sveti prorok Jezekilj
+8,4,Sveta Marija Magdalena - drugi pomen
+8,5,Sveti mucenik Evsigije
+8,6,Preobrazenjske zadusnice / predpraznistvo
+8,7,Uspenje Svete Ane
+8,8,Sveti velikomucenik Pantelejmon
+8,9,Sveti apostol Matija
+8,10,Sveti apostoli i djakoni Nikanor i drugi
+8,11,Rodenje Svetog Nikole lokalni pomen
+8,12,Sveti mučenici Fotije i Anikita
+8,13,Iznošenje časnog Krsta
+8,14,Sedam Makaveja / početak Gospojinskog posta
+8,15,Prenos moštiju Svetog Stefana
+8,16,Nerukotvoreni obraz Gospodnji
+8,17,Sveti mučenik Miron
+8,18,Predpraznistvo Preobrazenja / Sveti Jevstigije
+8,20,Sveti prorok Samuilo
+8,21,Sveti apostol Tadej
+8,22,Sveti apostol Matija - drugi pomen
+8,23,Sveti Lavrentije arhidjakon
+8,24,Sveti mucenik Arhip
+8,25,Sveti mučenici Fotije i Anikita - drugi pomen
+8,26,Sveti Tihon Zadonski - drugi pomen
+8,27,Sveti prorok Mihej
+8,30,Sveti Alimpije i drugi
+8,31,Polozaj pojasa Presvete Bogorodice
+9,1,Indikt - pocetak crkvene godine
+9,2,Sveti prorok Samuilo - drugi pomen
+9,3,Sveti apostol Tadej - drugi pomen
+9,4,Sveti sveštenomučenik Irinej
+9,5,Sveti prorok Zaharija i Jelisaveta
+9,6,Cudo Svetog arhistratiga Mihaila u Honi
+9,7,Predpraznistvo Male Gospojine
+9,8,Rodenje Presvete Bogorodice po starom kalendaru
+9,9,Sveti Joakim i Ana
+9,10,Sveti Averkije Hijerapoljski
+9,12,Sveti Aleksandar Nevski
+9,13,Sveti Kornilije Stotnik
+9,14,Casni Krst predpraznistvo
+9,15,Sveti Nikita Gotski
+9,16,Sveta velikomucenica Efimija - jesenji pomen
+9,17,Sveta mučenica Sofija i tri kćeri
+9,18,Sveti Jevmenije Gortinski
+9,20,Sveti veliki mucenik Evstatije
+9,22,Sveti Joakim i Ana - drugi pomen
+9,23,Zacece Svetog Jovana Krstitelja
+9,24,Prepodobna Teodora Aleksandrijska
+9,25,Sveti prepodobni Sergije Radonješki
+9,26,Obnovljenje hrama Vaskrsenja u Jerusalimu
+9,28,Sveti Nikita Ispovednik - jesenji pomen
+9,29,Sveti Kirijak Otšelnik
+9,30,Svete mucenice Vera, Nada i Ljubav
+10,1,Pokrovske zadusnice
+10,2,Sveti mucenik Kiprijan i Justina
+10,3,Sveti Dionisije Areopagit
+10,4,Sveti Jerotej
+10,5,Sveti prorok Jona
+10,7,Sveti apostol Toma - predpraznistvo
+10,8,Sveta prepodobna Pelagija
+10,10,Sveti mučenici Evlampije i Evlampija
+10,11,Sveti Filip jedan od sedmorice
+10,12,Sveti Teofan Ispovednik
+10,13,Sveti Mihailo prvi kijevski mitropolit
+10,15,Sveti mučenik Lukijan
+10,16,Sveti Longin Sotnik
+10,17,Sveti prorok Osija
+10,18,Sveti apostol i jevandjelist Luka - predpraznistvo
+10,20,Sveti Artemije
+10,21,Sveti Ilarion Veliki
+10,22,Sveti Averkije ravnoapostolni
+10,23,Sveti apostol Jakov brat Gospodnji
+10,24,Sveti Filaret Milostivi
+10,25,Sveti mučenici Markijan i Martirije
+10,26,Sveta velikomucenica Paraskeva - Sveta Petka
+10,27,Sveti Nestor Solunski
+10,28,Sveti Dimitrije Rostovski
+10,29,Prepodobna Anastasija Rimljanka
+10,30,Sveti Osiја i Joel proroci
+11,1,Sveti Kozma i Damjan bezsrebrenici
+11,2,Sveti velikomucenik Artemije
+11,3,Sveti Ilarion Veliki - drugi pomen
+11,4,Sveti Avramije Zatvornik
+11,5,Sveti apostol Jakov brat Gospodnji - drugi pomen
+11,6,Sveti Pavel Ispovednik
+11,7,Sveti 33 mučenika u Melitini
+11,9,Sabor svetog arhangela Mihaila predpraznistvo
+11,10,Sveta Paraskeva srpska lokalni pomen
+11,11,Sveti kralj Milutin
+11,12,Sveti Jovan Milostivi
+11,13,Sveti Jovan Zlatousti - jesenji pomen
+11,14,Sveti apostol Filip
+11,15,Sveti Gurije, Samon i Aviv
+11,17,Sveti Grigorije Cudotvorac
+11,18,Sveti mučenici Platon i Roman
+11,19,Sveti Obadija prorok
+11,20,Predpraznistvo Vavedenja
+11,22,Sveti Nektarije Eginski
+11,23,Sveti Amfilohije Iкоnijski
+11,25,Sveti Jovan Milostivi - drugi pomen
+11,26,Sveti Jovan Zlatousti - zimski pomen
+11,28,Prepodobni Pajsije Veliki
+11,29,Sveti apostol i jevandjelist Matej
+11,30,Sveti Grigorije Cudotvorac - drugi pomen
+12,1,Sveti Platon
+12,2,Sveti Avdija prorok
+12,3,Predpraznistvo Vavedenja - drugi dan
+12,5,Sveti mučenik Prokopije
+12,7,Sveta великомученица Ekaterina
+12,8,Sveti Kliment Ohridski - zimski pomen
+12,10,Znamenje Presvete Bogorodice
+12,11,Sveti mučenik Irinarh
+12,13,Sveti Andrej Prvozvani
+12,14,Sveti пророк Naum
+12,15,Sveti Avakum prorok
+12,16,Sveti prorok Sofonije
+12,18,Sveti mučenik Sevastijan
+12,20,Sveti Amvrosije Mediolanski
+12,21,Detinjci
+12,23,Sveti mučenici Mina, Ermogen i Evgraf
+12,24,Sveti Danilo Drugi arhiepiskop srpski
+12,25,Sveti Spiridon Trimifuntski - drugi pomen
+12,26,Materice
+12,27,Sveti prvomučenik Stefan - predpraznistvo
+12,28,Sveti 20000 mučenika nikomidijskih
+12,29,Sveti prorok Agej
+12,30,Sveta mučenica Anisija
+12,31,Sveti Modest Jerusalimski
