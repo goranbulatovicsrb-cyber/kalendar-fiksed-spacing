@@ -1,0 +1,40 @@
+name: Build Windows EXE
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup MSVC Developer Command Prompt
+        uses: ilammy/msvc-dev-cmd@v1
+
+      - name: Configure CMake
+        run: cmake -S . -B build -G "NMake Makefiles"
+
+      - name: Build
+        run: cmake --build build --config Release
+
+      - name: Prepare package
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory -Force -Path package | Out-Null
+          New-Item -ItemType Directory -Force -Path package\data | Out-Null
+          Copy-Item build\OrthodoxReminderPro.exe package\OrthodoxReminderPro.exe
+          Copy-Item README.md package\README.md
+          if (Test-Path data\orthodox_calendar_sr.csv) {
+            Copy-Item data\orthodox_calendar_sr.csv package\data\orthodox_calendar_sr.csv
+          }
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: OrthodoxReminderPro-v5-windows
+          path: package
